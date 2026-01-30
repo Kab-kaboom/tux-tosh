@@ -20,7 +20,7 @@ To allow Tupu and Lupu to collaborate in `/opt/projekti`, I implemented a shared
 ### Why this works:
 The `2` in `2770` is the **SetGID bit**. As shown in the screenshot below, when Tupu creates a file, it is automatically owned by the `projekti` group. This allows Lupu (who is in the same group) to edit it immediately.
 
-![Permissions Screenshot](llinux-assignment-3(2).jpg)
+![Permissions Screenshot](linux-assignment-3(2).jpg)
 
 ### Verification:
 * The directory shows `drwxrws---` (the 's' confirms SetGID).
