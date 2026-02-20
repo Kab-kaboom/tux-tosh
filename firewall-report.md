@@ -40,3 +40,9 @@ Logging was set to **High** (`sudo ufw logging high`) to ensure full visibility.
 
 ## 6. Verification
 The command `sudo ufw status verbose` confirms the firewall is **Active** and will load automatically upon system startup.
+
+## 7. Evidence of Implementation
+Below is the terminal output confirming the firewall is operational:
+![firewall](firewall1.jpg)
+![firewall](firewall2.jpg)
+
