@@ -92,9 +92,9 @@
 3. Check if the package requires a repository (like `multiverse`) that isn't enabled.
 4. Use `apt search` to find the correct name of the package.
 
-(./apt1.jpg)
-(./apt2.jpg)
-(./apt3.jpg)
-(./apt4.jpg)
-(./apt5.jpg)
+![Step 1](./apt1.jpg)
+![Step 2](./apt2.jpg)
+![Step 3](./apt3.jpg)
+![Step 4](./apt4.jpg)
+![Step 5](./apt5.jpg)
 
